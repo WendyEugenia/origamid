@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+}
+
+body{
+    font-family: 'arial', Courier, monospace;
+    padding-top: 3rem;
+}
+.header{
+    text-align: center;
+    color: #111;
+}
+
+.subtitulo{
+    color: #b2b2b2;
+}
+
+span{
+   color:  #febe01;
+}
+
+.itens{
+    background-color: #111;
+    margin: 2rem;
+    padding: 20px;
+    content: 10px;
+    color: white;
+    border-radius: 4px;
+    line-height: 3rem;
+    
+
+}
+
+.link{
+    background: #febe01;
+    text-decoration: none;
+    color: #111;
+    padding: 10px;
+    border-radius: 4px;
+
+}
